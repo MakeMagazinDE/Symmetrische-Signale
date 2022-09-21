@@ -12,7 +12,7 @@
 const char* ssid = "WLAN-Name";
 const char* password = "Passwort";
 String openWeatherMapApiKey = "Ihr API-Key";
-String city = "Ihr Wphnort";
+String city = "Ihr Wohnort";
 String countryCode = "DE";
 String IPEigenstation = "";
 
