@@ -4,7 +4,6 @@ Maker Media GmbH
 *** 
 
 # Symmetrische Signalübertragung
-zeigt Wetterdaten originell per Flügelstellung und Drehzahl an.
 
 ### „Symmetrie ist die Ästhetik des kleinen Mannes“ – ein spöttischer Ausspruch in Künstler- und Architektenkreisen. Allerdings: Gerade im hochwertigen Tonstudio ist die symmetrische Technik zu Hause. Was ist also das Geheimnis dahinter, und wie kann man solche Audio-Verbindungen möglichst einfach nutzen?
 
