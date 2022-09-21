@@ -12,4 +12,4 @@ zeigt Wetterdaten originell per Flügelstellung und Drehzahl an.
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 5/22 ab Seite 44](https://www.heise.de/select/make/2022/5/2221507124782634481)** zu lesen. 
 
-
+Im Programm-Code müssen vor Übertragen des Programms auf die Mühle die Daten Ihres WLANS sowie die Daten für den OpenweatherMap-Zugang ausgefüllt werden. Die im Programm enthaltenen Daten funktionieren nicht!
