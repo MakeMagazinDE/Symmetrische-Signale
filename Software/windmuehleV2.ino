@@ -9,12 +9,12 @@
 #include "SSD1306Wire.h"
 #include <Stepper.h>
 
-const char* ssid = "MakeMesse";
-const char* password = "DiDumDiDei";
-String openWeatherMapApiKey = "cd05c487990402da9347ad01272faae3";
-String city = "Hannover";
+const char* ssid = "WLAN-Name";
+const char* password = "Passwort";
+String openWeatherMapApiKey = "Ihr API-Key";
+String city = "Ihr Wphnort";
 String countryCode = "DE";
-String IPEigenstation = "192.168.10.74";
+String IPEigenstation = "";
 
 String serverPath;
 const int motor = D4;
